@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  CreditApp
+
+  Created by wang on 2018/9/2.
+  Copyright © 2018年 hujuun. All rights reserved.
+*/
+
+/*
+ Credit Manager
+ */
+
+//list
+"cm.list.nav-title" = "信用卡智能体验";
+"cm.list.title1" = "信用卡利息、手续费、年费、滞纳金";
+"cm.list.title2" = "一键通通帮你搞定";
+"cm.list.add-credit" = "添加信用卡";
+
+//detail
+"cm.detail.nav-title" = "信用卡账单详情";

@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+*.xcuserstate  
+project.xcworkspace  
+xcuserdata  
+UserInterfaceState.xcuserstate  
+project.xcworkspace/  
+xcuserdata/  
+UserInterface.xcuserstate
+=======
+**/.DS_Store
+>>>>>>> 8c13379b24c51fe11ce0c5ab4ebdbdcb7fd3203f
